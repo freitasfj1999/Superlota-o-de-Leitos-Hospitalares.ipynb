@@ -12,6 +12,10 @@ Projeto EBAC em parceria com a Sematrix
 
 ---
 
+## 🔗 Visualização (Google Colab)
+- Google Colab: https://colab.research.google.com/drive/14bLLDHpM-Dwss5PKvxJnLIHL3Mqv1AvY?usp=sharing
+---
+
 ## 📥 Coleta de Dados
 - Base utilizada: `data/dados_hospitalares_corrigidos.csv` (derivada de planilha Google Sheets).
 - Variáveis:
