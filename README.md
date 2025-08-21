@@ -8,7 +8,7 @@ Projeto EBAC em parceria com a Sematrix
 ---
 
 ## 🔗 Visualização (Looker Studio)
-- Dashboard público: [Acesse aqui](COLE_O_LINK_DO_SEU_DASHBOARD)
+- Dashboard público: https://lookerstudio.google.com/reporting/15fa1cdb-20b1-42c7-998b-349ccb4dd072
 
 ---
 
@@ -52,7 +52,7 @@ Projeto EBAC em parceria com a Sematrix
 ## 📊 Resultados (prints do dashboard)
 | KPIs | Série Temporal | Mapa | Barras (CID) |
 |---|---|---|---|
-| ![kpi](assets/img/kpi.png) | ![serie](assets/img/serie_temporal.png) | ![mapa](assets/img/mapa.png) | ![barras](assets/img/barras_cid.png) |
+| ![kpi](file:///C:/Users/Jo%C3%A3o/Downloads/Looker%20-%20Prints.pdf) | ![serie](file:///C:/Users/Jo%C3%A3o/Downloads/Looker%20-%20Prints.pdf) | ![mapa](file:///C:/Users/Jo%C3%A3o/Downloads/Looker%20-%20Prints.pdf) | ![barras](file:///C:/Users/Jo%C3%A3o/Downloads/Looker%20-%20Prints.pdf) |
 
 ---
 
